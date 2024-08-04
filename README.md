@@ -35,6 +35,7 @@ A collection of useful resources, drivers, behaviors, tools, and more for the ZM
 - [zmk-auto-layer](https://github.com/urob/zmk-auto-layer) - Auto-layer (including num-word) implementation.
 - [zmk-split-peripheral-input-relay](https://github.com/badjeff/zmk-split-peripheral-input-relay) - This module adds an input relay to the input subsystem for ZMK. This would allow, for example, sending trackpoint events from the peripheral to the center split.
 - [zmk-split-peripheral-output-relay](https://github.com/badjeff/zmk-split-peripheral-output-relay) - This module adds an output relay for ZMK. This allows sending events from the central to peripherals, for example, to trigger haptic feedback or LEDs on certain events.
+- [zmk-behavior-insomnia](https://github.com/badjeff/zmk-behavior-insomnia/) - Insomnia Behavior for ZMK. This module prevents the board from entering sleep mode if BLE is connected, useful for multi-peripheral setups to avoid continuous BLE advertisement scanning.
 
 ## Drivers
 
