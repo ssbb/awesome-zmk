@@ -48,4 +48,5 @@ A collection of useful resources, drivers, behaviors, tools, and more for the ZM
 
 ## Other Resources
 
-- [zmk-designguide](https://github.com/ebastler/zmk-designguide) - A short hardware-designguide for ZMK keyboards.
+- [ZMK design guide](https://github.com/ebastler/zmk-designguide) - A short hardware-designguide for ZMK keyboards.
+- [Maintaining a personal ZMK fork](https://gist.github.com/urob/68a1e206b2356a01b876ed02d3f542c7) - A cookbook approach to maintaining a personal ZMK fork.
