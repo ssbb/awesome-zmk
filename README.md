@@ -37,6 +37,9 @@ A collection of useful resources, drivers, behaviors, tools, and more for the ZM
 - [zmk-split-peripheral-output-relay](https://github.com/badjeff/zmk-split-peripheral-output-relay) - This module adds an output relay for ZMK. This allows sending events from the central to peripherals, for example, to trigger haptic feedback or LEDs on certain events.
 - [zmk-behavior-insomnia](https://github.com/badjeff/zmk-behavior-insomnia/) - Insomnia Behavior for ZMK. This module prevents the board from entering sleep mode if BLE is connected, useful for multi-peripheral setups to avoid continuous BLE advertisement scanning.
 
+### PR's
+- [#2042](https://github.com/zmkfirmware/zmk/pull/2042) - The Antecedent-Morph behavior (adaptive keys) sends different behaviors, depending on which key was most recently released before the antecedent-morph behavior was pressed, if this occurs within a configurable time period.
+
 ## Drivers
 
 - [zmk-rgbled-widget](https://github.com/caksoylar/zmk-rgbled-widget) - A ZMK module to add battery & BT indicators using an RGB LED (like in Xiao BLEs).
