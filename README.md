@@ -36,7 +36,7 @@ A collection of useful resources, drivers, behaviors, tools, and more for the ZM
 - [zmk-split-peripheral-input-relay](https://github.com/badjeff/zmk-split-peripheral-input-relay) - This module adds an input relay to the input subsystem for ZMK. This would allow, for example, sending trackpoint events from the peripheral to the center split.
 - [zmk-split-peripheral-output-relay](https://github.com/badjeff/zmk-split-peripheral-output-relay) - This module adds an output relay for ZMK. This allows sending events from the central to peripherals, for example, to trigger haptic feedback or LEDs on certain events.
 - [zmk-behavior-insomnia](https://github.com/badjeff/zmk-behavior-insomnia/) - Insomnia Behavior for ZMK. This module prevents the board from entering sleep mode if BLE is connected, useful for multi-peripheral setups to avoid continuous BLE advertisement scanning.
-- [zmk-antecedent-morph](https://github.com/ssbb/zmk-antecedent-morph) - ZMK Antecedent Morph Behavior aka Adaptive Keys
+- [zmk-antecedent-morph](https://github.com/ssbb/zmk-antecedent-morph) - ZMK Antecedent Morph Behavior aka Adaptive Keys.
 
 ## Drivers
 
@@ -46,7 +46,7 @@ A collection of useful resources, drivers, behaviors, tools, and more for the ZM
 - [badjeff's zmk-pmw3610-driver](https://github.com/badjeff/zmk-pmw3610-driver) - Other implementation of PMW3610 driver.
 - [zmk-adns9800-driver](https://github.com/badjeff/zmk-adns9800-driver) - ADNS9800 trackball sensor driver.
 - [zmk-ps2-mouse-trackpoint-driver](https://github.com/infused-kim/kb_zmk_ps2_mouse_trackpoint_driver) - PS/2 trackpoint driver.
-- [le-capybara-zmk-module](https://github.com/petejohanson/le-capybara-zmk-module) - Electrostatic Capacitive (Topre) matrix scan implementation.
+- [ec-support-zmk-module](https://github.com/petejohanson/ec-support-zmk-module) - Electrostatic Capacitive (Topre) matrix scan implementation.
 
 ## Other Resources
 
