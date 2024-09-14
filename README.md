@@ -48,7 +48,11 @@ A collection of useful resources, drivers, behaviors, tools, and more for the ZM
 - [zmk-ps2-mouse-trackpoint-driver](https://github.com/infused-kim/kb_zmk_ps2_mouse_trackpoint_driver) - PS/2 trackpoint driver.
 - [ec-support-zmk-module](https://github.com/petejohanson/ec-support-zmk-module) - Electrostatic Capacitive (Topre) matrix scan implementation.
 
-## Other Resources
+## Other
+
+- [Hammerbeam Slideshow](https://github.com/GPeye/hammerbeam-slideshow) - A zmk module to implement a slideshow of 30 of Hammerbeam's 1 bit art on the peripheral (right) nice!view display.
+
+## Guides
 
 - [ZMK design guide](https://github.com/ebastler/zmk-designguide) - A short hardware-designguide for ZMK keyboards.
 - [Maintaining a personal ZMK fork](https://gist.github.com/urob/68a1e206b2356a01b876ed02d3f542c7) - A cookbook approach to maintaining a personal ZMK fork.
