@@ -27,6 +27,7 @@ A collection of useful resources, drivers, behaviors, tools, and more for the ZM
 
 - [keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualizes keymaps that use advanced features like hold-taps and combos, with automatic parsing.
 - [keymap-editor](https://github.com/nickcoutsos/keymap-editor) - Graphical keymap editor.
+- [zmk-locale-generator](https://github.com/joelspadin/zmk-locale-generator) - Python module to generate localized keyboard layout headers for ZMK Firmware.
 
 ## Behaviors
 
