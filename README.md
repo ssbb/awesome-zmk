@@ -52,6 +52,7 @@ A collection of useful resources, drivers, behaviors, tools, and more for the ZM
 ## Other
 
 - [Hammerbeam Slideshow](https://github.com/GPeye/hammerbeam-slideshow) - A zmk module to implement a slideshow of 30 of Hammerbeam's 1 bit art on the peripheral (right) nice!view display.
+- [nice!view Elemental](https://github.com/kevinpastor/nice-view-elemental) - A bold while minimalistic interface for your keyboard's display.
 
 ## Guides
 
