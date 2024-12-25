@@ -40,6 +40,7 @@ A collection of useful resources, drivers, behaviors, tools, and more for the ZM
 - [zmk-adaptive-key](https://github.com/urob/zmk-adaptive-key) - A ZMK module adding a adaptive-key behavior.
 - [zmk-antecedent-morph](https://github.com/ssbb/zmk-antecedent-morph) - ZMK Antecedent Morph Behavior aka Adaptive Keys.
 - [zmk-leader-key](https://github.com/urob/zmk-leader-key) - A ZMK module adding a leader-key behavior.
+- [zmk-deadkey-slayer](https://github.com/ssbb/zmk-deadkey-slayer) - A ZMK module to drop illegal keycodes.
 
 ## Drivers
 
