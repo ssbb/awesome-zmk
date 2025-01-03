@@ -49,8 +49,9 @@ A collection of useful resources, drivers, behaviors, tools, and more for the ZM
 - [badjeff/zmk-drv2605-driver](https://github.com/badjeff/zmk-drv2605-driver/) - DRV2605 haptic feedback driver.
 - [badjeff/zmk-pmw3610-driver](https://github.com/badjeff/zmk-pmw3610-driver) - PMW3610 sensor driver.
 - [badjeff/zmk-adns9800-driver](https://github.com/badjeff/zmk-adns9800-driver) - ADNS9800 sensor driver.
+- [badjeff/kb_zmk_ps2_mouse_trackpoint_driver](https://github.com/badjeff/kb_zmk_ps2_mouse_trackpoint_driver) - PS/2 trackpoint driver fork updated for mainline ZMK.
 - [inorichi/zmk-pmw3610-driver](https://github.com/inorichi/zmk-pmw3610-driver) - PMW3610 sensor driver.
-- [infused-kimzmk-ps2-mouse-trackpoint-driver](https://github.com/infused-kim/kb_zmk_ps2_mouse_trackpoint_driver) - PS/2 trackpoint driver.
+- [infused-kim/zmk-ps2-mouse-trackpoint-driver](https://github.com/infused-kim/kb_zmk_ps2_mouse_trackpoint_driver) - PS/2 trackpoint driver.
 - [petejohanson/ec-support-zmk-module](https://github.com/petejohanson/ec-support-zmk-module) - Electrostatic Capacitive (Topre) matrix scan implementation.
 
 ## Other
