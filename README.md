@@ -41,7 +41,7 @@ A collection of useful resources, drivers, behaviors, tools, and more for the ZM
 - [urob/zmk-leader-key](https://github.com/urob/zmk-leader-key) - A ZMK module adding a leader-key behavior.
 - [ssbb/zmk-antecedent-morph](https://github.com/ssbb/zmk-antecedent-morph) - ZMK Antecedent Morph Behavior aka Adaptive Keys.
 - [ssbb/zmk-deadkey-slayer](https://github.com/ssbb/zmk-deadkey-slayer) - A ZMK module to drop illegal keycodes.
-- [ssbb/zmk-layer-listeners](https://github.com/ssbb/zmk-layer-listeners)- ZMK module to invoke certain behaviors on layer enter/leave.
+- [ssbb/zmk-listeners](https://github.com/ssbb/zmk-listeners)- ZMK module to invoke behaviors on certain events.
 
 ## Drivers
 
