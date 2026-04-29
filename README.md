@@ -42,6 +42,7 @@ A collection of useful resources, drivers, behaviors, tools, and more for the ZM
 - [ssbb/zmk-antecedent-morph](https://github.com/ssbb/zmk-antecedent-morph) - ZMK Antecedent Morph Behavior aka Adaptive Keys.
 - [ssbb/zmk-deadkey-slayer](https://github.com/ssbb/zmk-deadkey-slayer) - A ZMK module to drop illegal keycodes.
 - [ssbb/zmk-listeners](https://github.com/ssbb/zmk-listeners)- ZMK module to invoke behaviors on certain events.
+* [mjmjm0101/zmk-input-processor-scroll-inertia](https://github.com/mjmjm0101/zmk-input-processor-scroll-inertia) - iOS-style inertial scrolling for ZMK trackballs.
 
 ## Drivers
 
